@@ -1,0 +1,2 @@
+# Insights-from-Medical-Images-An-AI-Powered-Diagnostic-Tool-for-Disease-Detection-and-Prevention-Tips
+A tool which uses Image detection Model which gives high accuracy around 80% and classifies the three diseases(Parkinson, Alzheimer's , Diabetic Retinopathy) which uses MRI scans and Retinal Images as Input and after Classification the ouptut will show the detected disease, if any along with insights and prevention tips on real time using ChatGPT
